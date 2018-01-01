@@ -7,7 +7,7 @@
     
     function LoginController($scope, $http, $location, Login) {
         $scope.login = function() {
-            Login.login({ username : 'adnan', password: 'policija' });
+            Login.login({ username : 'adnan', password: '' });
         }
     }
 

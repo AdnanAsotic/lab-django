@@ -39,3 +39,11 @@ pip install djangorestframework
 
 ```
 
+## Links
+
+ViewSets:
+
+http://www.django-rest-framework.org/api-guide/viewsets/
+
+
+
